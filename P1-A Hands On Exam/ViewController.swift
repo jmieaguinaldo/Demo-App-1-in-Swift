@@ -11,15 +11,14 @@ import UIKit
 class ViewController: UIViewController {
     
     /*
-    * 6  - Values must be saved to a constant
-    * 1  - Error messages will be saved to a tuple
-    * 4  - Showing of error uses string interpolation
-    * 5  - Saving of values to an empty array
-    * 10 - Fetching of values from an array
-    * 15 - Using of control transfer statement
-    * 3  - Using of IBOutlet Collection
-    * 3  - Runs
-    * 3  - Control flow
+    * Values must be saved to a constant
+    * Error messages will be saved to a tuple
+    * Showing of error uses string interpolation
+    * Saving of values to an empty array
+    * Fetching of values from an array
+    * Using of control transfer statement
+    * Using of IBOutlet Collection
+    * Control flow
     */
 
     @IBOutlet weak var txtFulllName: UITextField!
